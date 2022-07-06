@@ -1,5 +1,14 @@
 {
-    "img0" : {
-      "path": "https://raw.githubusercontent.com/TheZ1337/slider-img/main/images/news_thumbnail.png"
+    "0" : {
+      "path": "https://raw.githubusercontent.com/TheZ1337/slider-img/main/slider/construction_deal.png"
+    }
+    "1" : {
+      "path": "https://raw.githubusercontent.com/TheZ1337/slider-img/main/slider/construction_plan.png"
+    }
+    "2" : {
+      "path": "https://raw.githubusercontent.com/TheZ1337/slider-img/main/slider/construction_started.png"
+    }
+    "3" : {
+      "path": "https://raw.githubusercontent.com/TheZ1337/slider-img/main/slider/constructive_meet.png"
     }
   }
